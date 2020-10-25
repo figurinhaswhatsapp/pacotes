@@ -1,0 +1,31 @@
+[
+  {
+    "identifier": "pac1_bomdiaRAV",
+    "name": "Bom dia - RAV",
+    "publisher": "RAV",
+    "trayImageFileName": "/pac1_bomdia/logo.png",
+    "publisherWebsite": "",
+    "privacyPolicyWebsite": "",
+    "licenseAgreementWebsite": "",
+    "stickers": [
+      {
+        "sticker": "/pac1_bomdia/1.webp",
+      },
+      {
+        "sticker": "/pac1_bomdia/2.webp",
+      },
+      {
+        "sticker": "/pac1_bomdia/3.webp",
+      },
+      {
+        "sticker": "/pac1_bomdia/4.webp",
+      },
+      {
+        "sticker": "/pac1_bomdia/5.webp",
+      },
+      {
+        "sticker": "/pac1_bomdia/6.webp",
+      },
+    ]
+  }
+]
